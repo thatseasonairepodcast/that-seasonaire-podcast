@@ -25,8 +25,8 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://www.thatseasonairepodcast.com'
+baseurl:
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -44,11 +44,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-# Plugins
-plugins:
-    - jekyll-asciidoc
-    - jekyll-gist
-    - jekyll-paginate
+# 
 
 
 #       ____              _             __  _
